@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning xaml and c#.
 
 # Something
-Not Using GitHub Much!
+Using GitHub Sometimes!
