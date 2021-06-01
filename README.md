@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @DataYT
-- 👀 I’m interested in gaming and coding. :D
-- 🌱 I’m currently learning xaml and c#.
-
-# Something
-Using GitHub Sometimes!
+# Hi!
+I Code C# And C++
