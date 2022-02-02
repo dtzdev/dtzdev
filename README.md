@@ -7,8 +7,6 @@
 🖊️ Currently working at: wndzy royale.
 <br>
 
----------------------
-
 ### Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ofDataa&show_icons=true&include_all_commits=true&theme=dark)
 <br>
