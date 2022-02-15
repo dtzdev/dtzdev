@@ -4,7 +4,7 @@
 <br>
 📖 Im learning more c++.
 <br>
-🖊️ Currently working at: wndzy royale.
+🖊️ Currently working at: lot of shit
 <br>
 
 ### Github Stats:
