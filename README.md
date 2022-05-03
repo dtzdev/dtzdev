@@ -2,7 +2,7 @@
 
 ✨Im decent at C# and getting better at C++.
 <br>
-🛠️I also code HTML, CSS & Node.S
+🛠️I also code HTML, CSS & Node.JS
 <br>
 🖊️ Currently working at: Eclipse Client & in some other shit 
 <br>
