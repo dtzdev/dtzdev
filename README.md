@@ -4,8 +4,6 @@
 <br>
 🛠️I also code HTML, CSS & Node.S
 <br>
-📖 Im learning more c++.
-<br>
 🖊️ Currently working at: Eclipse Client & in some other shit 
 <br>
 
