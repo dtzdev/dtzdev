@@ -1,10 +1,12 @@
 # Welcome To My Profile! 
 
-✨I code HTML, CSS, C#, C++, Node.JS.
+✨Im decent at C# and getting better at C++.
+<br>
+🛠️I also code HTML, CSS & Node.S
 <br>
 📖 Im learning more c++.
 <br>
-🖊️ Currently working at: lot of shit
+🖊️ Currently working at: Eclipse Client & in some other shit 
 <br>
 
 ### Github Stats:
