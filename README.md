@@ -1,6 +1,6 @@
 # Welcome To My Profile! 
 
-✨Im decent at C# and getting better at C++.
+✨Im decent at C# and getting better at C++ & Java. 
 <br>
 🛠️I also code HTML, CSS & Node.JS
 <br>
