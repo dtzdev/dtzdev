@@ -14,14 +14,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
 ### Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=ofDataa&show_icons=true&include_all_commits=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=dtzdev&show_icons=true&include_all_commits=true&theme=dark)
 <br>
 ---------------------
 
 ### Most Used Launguages In Public Repos:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ofDataa&layout=default&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dtzdev&layout=default&theme=dark)
 <br>
 ---------------------
 
 ### Profile Visits:
-![](https://profile-counter.glitch.me/ofDataa/count.svg)
+![](https://profile-counter.glitch.me/dtzdev/count.svg)
