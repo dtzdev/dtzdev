@@ -4,7 +4,7 @@
 <br>
 🛠️I also code HTML, CSS & Node.JS in web development
 <br>
-🖊️ Currently working at: Eclipse Client & in some other shit 
+🖊️ Currently working at: Minecraft development, React messaging app & some other junk projects.
 <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
