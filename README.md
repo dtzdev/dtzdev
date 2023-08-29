@@ -2,7 +2,8 @@
 
 ✨Im decent at C#, pretty good at C++ & Learning Java(learning to make no shitty java code). 
 <br>
-🛠️I also code HTML, CSS & Node.JS in web development
+🛠️ Languages: C#, C++, Typescript, Javascript, Java, HTML, CSS, SCSS, Python. + some i dont know so good (like used only once)
+🛠️ Frameworks: Angular, React and Node.
 <br>
 🖊️ Currently working at: Minecraft development, React messaging app & some other junk projects.
 <br>
