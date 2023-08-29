@@ -20,7 +20,7 @@
 ---------------------
 
 ### Most Used Launguages In Public Repos:
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=dtzdev)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=dtzdev&theme=dark)
 <br>
 ---------------------
 
