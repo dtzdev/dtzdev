@@ -1,6 +1,6 @@
 # Welcome To My Profile! 
 
-✨Im decent at C#, pretty good at C++ & Learning Java(learning to make no shitty java code). 
+✨Im decent at C#, pretty good at C++ & OK In Java
 <br>
 🛠️ Languages: C#, C++, Typescript, Javascript, Java, HTML, CSS, SCSS, Python. + some i dont know so good (like used only once)
 🛠️ Frameworks: Angular, React and Node.
