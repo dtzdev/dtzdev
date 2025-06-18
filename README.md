@@ -1,5 +1,5 @@
 <h1 align="center">Hello friend, I'm dtz</h1>
-<h3 align="center">A passionate mainly C#, Java & C++ developer from Finland</h3>
+<h3 align="center">A passionate mainly Java & C++ developer from Finland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtzdev" alt="dtzdev" /></a> </p>
 
